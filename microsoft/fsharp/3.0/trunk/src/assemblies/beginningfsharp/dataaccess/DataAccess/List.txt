@@ -1,0 +1,9 @@
+﻿
+what will be covered by this chapter incldue the following.
+
+
+SystemConfigurationNamepace.fs
+SsytemIONamespace.fs
+UsingSequenceWithSystemIO.fs
+IntroducingLINQ.fs
+UsingLINQtoXml.fs

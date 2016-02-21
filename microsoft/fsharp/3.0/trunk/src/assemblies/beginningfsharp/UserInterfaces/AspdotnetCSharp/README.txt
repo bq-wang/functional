@@ -1,0 +1,1 @@
+AspdotnetCSharp has in its webconfig uses UserInterfaceLib (fsharp project) to register one IHttpHandler

@@ -1,0 +1,5 @@
+﻿
+SystemConfigurationNamespace.fs
+SystemIONamespace.fs
+SequencewithSystemIO.fs
+SystemXmlNamespace.fs

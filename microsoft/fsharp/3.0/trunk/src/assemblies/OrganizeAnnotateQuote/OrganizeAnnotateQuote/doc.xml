@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+<assembly><name>DocComments</name></assembly>
+<members>
+<member name="M:DocComments.divTen(System.Int32)">
+ <summary>
+ divides the given parameter by 10
+ </summary>
+ <param name="x"> the thing to be divied by 10 </param>
+</member>
+<member name="P:DocComments.myString">
+<summary>
+ this is an explanation 
+</summary>
+</member>
+<member name="T:DocComments">
+
+</member>
+</members>
+</doc>

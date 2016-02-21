@@ -1,0 +1,6 @@
+﻿what is missing from this chapter include the following 
+
+
+
+FormDesignerFormsInFSharp.fs
+WinFormsEventsAndEventModule.fs

@@ -1,0 +1,12 @@
+﻿
+what will be covered in this phase include in the following . 
+
+
+FormDesignerFormInFSharp.fs
+WinformsEventAndEventModule.fs
+IntroducingWPF.fs
+IntroduceWPF3D.fs
+IntroducingGTKSharp.fs
+CreatingIHttpHandler.fs
+CreatingIHttpHandler_Pic.fs
+WorkingWithASPNetWebForms.fs

@@ -1,0 +1,9 @@
+﻿
+what is missing in this list include the following 
+
+
+Introduction.fs
+IntroducingWInforms.fs
+DrawingWinForms.fs
+WorkWithControls.fs
+NewFormsClasses.fs

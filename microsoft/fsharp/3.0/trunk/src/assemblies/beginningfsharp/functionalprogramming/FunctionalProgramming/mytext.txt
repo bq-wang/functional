@@ -1,0 +1,4 @@
+﻿# copy me to the %TEMP%
+This is the first text that I am using...
+
+

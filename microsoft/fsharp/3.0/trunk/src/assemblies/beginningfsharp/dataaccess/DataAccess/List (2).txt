@@ -1,0 +1,9 @@
+﻿
+what will be included in the current project
+
+SystemXmlNamespace.fs
+ADONet.fs
+ADONet_Libraries.fs
+DataBinding.fs
+DataBindingDataGridViewControl.fs
+DataBindingDataGrid_RecordType.fs

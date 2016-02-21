@@ -1,0 +1,13 @@
+﻿
+{
+open Microsoft.FSharp.Text.lexing
+}
+
+rule token = parse
+| "/*"	{comment lexbuf; token lexbuf } 
+| ['_''a'-'z''A'-'Z']['_''a'-'z''A'-'Z''0'-'9']*    {lexeme lexbuf} 
+
+
+and comment = parse 
+| "*/" | eof { () }
+| _          { comment lexbuf }
